@@ -4,6 +4,8 @@ Real-time current monitor for low-power devices. Reads INA226 samples from an Ar
 
 Built to characterise the sleep and active consumption of a battery-powered ESP32-C3 device, and verified against precision resistors down to single-digit microamperes.
 
+![Live plot and startup summary](docs/images/monitor-screenshot.png)
+
 ## How it works
 
 ```
